@@ -1,12 +1,13 @@
-# Nicolas le Douarec
-## corsaire hacker
+# corsaire hacker
 
 
-Je rêve d'un monde vivant apaisé, 
-cultivant les communs et l'open source. 
-Je m'efforce d'effacer l'impact néfaste des activités humaines.
-Je vis  la permaculture à petite terre
+**Je rêve d'un monde vivant apaisé,**
+**cultivant les communs et l'open source.**
+**Je m'efforce d'effacer l'impact néfaste des activités humaines.**
+**Je vis  la permaculture à petite terre**
+
 ——
+# Mes Services
 
 Sparring partner : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
 
