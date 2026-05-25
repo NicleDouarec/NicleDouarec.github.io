@@ -2,8 +2,11 @@
 
 
 **Je rêve d'un monde vivant apaisé,**
+
 **cultivant les communs et l'open source.**
+
 **Je m'efforce d'effacer l'impact néfaste des activités humaines.**
+
 **Je vis  la permaculture à petite terre**
 
 ——
