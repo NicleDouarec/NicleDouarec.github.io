@@ -13,13 +13,13 @@
 
 # Mes Services
 
-==**Sparring partner**== : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
+<mark>**Sparring partner**</mark> : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
 
 Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
-==**Créatif innovant**== : Je vous (dé-)montre très rapidement le potentiel de transformation de vos produits et services.
+<mark>**Créatif innovant**</mark> : Je vous (dé-)montre très rapidement le potentiel de transformation de vos produits et services.
 
-==**Capitaine de Projet**== : Je me mets au service de vos équipes exploratrices d'un monde meilleur et les aide à surmonter les obstacles sur leur chemin.
+<mark>**Capitaine de Projet**</mark> : Je me mets au service de vos équipes exploratrices d'un monde meilleur et les aide à surmonter les obstacles sur leur chemin.
 
 ——
 
