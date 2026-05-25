@@ -12,7 +12,7 @@
 
 # Mes Services
 
-<mark>**Sparring partner**</mark> : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
+**<mark>Sparring partner</mark>** : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
 
 Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
