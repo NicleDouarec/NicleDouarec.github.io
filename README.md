@@ -22,7 +22,7 @@ Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
 ***
 
-Un projet en tête et des questions en pagaille? <mark>[Parlons-en !](mailto: nicolas@le.douar.ec)<mark>
+Un projet en tête et des questions en pagaille? <mark>[Parlons-en !](mailto:nicolas@le.douar.ec)<mark>
 
 ***
 
