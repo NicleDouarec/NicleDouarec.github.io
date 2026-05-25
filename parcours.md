@@ -25,6 +25,7 @@ Cofondateur et président de mobizen (autopartage à Paris), puis cityzencar (lo
 Responsable de la réponse à l'appel d'offre Autolib.
 Président de Buzzcar
 
+***
 ## 2015 - 20?? Corsaire hacker
 
 Comme corsaire, Capitaine de projets, mes missions ont du sens.
