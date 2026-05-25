@@ -33,10 +33,10 @@ Comme hacker, je suis attentif, curieux et joueur.
 > 
 > 2016 - 2025 - membre du conseil stratégique de Nomalab
 > 
-> 2022 - Co créateur de l'eXtrème Défi
+> 2022 - Co-créateur de l'eXtrème Défi ([XD](https://xd.ademe.fr))de l'ADEME
 > 
 > 2023 - 2026 Président d'AVELI l'association de Acteurs des Véhicules légers intermédiaires
 > 
-> 2024 - 20?? membre du conseil de surveillance de la foncire Béguinage Solidaire
+> 2024 - 20?? membre du conseil de surveillance de la foncière Béguinage Solidaire
 > 
 > 2026 - 20?? Co- président de la Fabrique des Mobilités
