@@ -26,7 +26,7 @@ Un projet en tête et des questions en pagaille? Parlons-en !
 
 ***
 
-**_<p style="text-align:center;">Be the change you want to see in the world (Gandhi)</p>_**
+> **Be the change you want to see in the world (Gandhi)**
 
 ***
 Références :
