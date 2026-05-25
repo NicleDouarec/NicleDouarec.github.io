@@ -9,7 +9,6 @@
 
 **Je vis  la permaculture à petite terre**
 
-***
 
 # Mes Services
 
@@ -21,12 +20,14 @@ Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
 <mark>**Capitaine de Projet**</mark> : Je me mets au service de vos équipes exploratrices d'un monde meilleur et les aide à surmonter les obstacles sur leur chemin.
 
-——
+***
 
 Un projet en tête et des questions en pagaille? Parlons-en !
 
-——
+***
 
+**_Be the change you want to see in the world (Gandhi)_**
 
+***
 Références :
 inspiring innovation - eXtrème Défi - mobizen - VTlib —cityzencar - GOWare - code to vote
