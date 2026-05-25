@@ -31,4 +31,4 @@ Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
 ***
 Références :
-inspiring innovation - eXtrème Défi - mobizen - VTlib —cityzencar - GOWare - code to vote
+[inspiring innovation](https://inspiring.le.douar.ec/) - [eXtrème Défi](https://xd.ademe.fr/) - [mobizen](https://www.youtube.com/watch?v=L-V0Xh3ccG0) - [VTLib](https://www.youtube.com/watch?v=Jc6k8hqx11Y) - [GOWare](https://goware.mystrikingly.com/) - [code to vote](https://code2vote.mystrikingly.com/)
