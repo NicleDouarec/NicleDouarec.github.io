@@ -1,4 +1,4 @@
-![Nicolas le Douarec](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Nicolas le Douarec](./images/portrait.png)
 
 # corsaire hacker ([histoire](./parcours.html))
 
