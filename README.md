@@ -1,4 +1,4 @@
-# corsaire hacker
+# corsaire hacker ([histoire](./parcours.html))
 
 
 **Je rêve d'un monde vivant apaisé,**
