@@ -9,7 +9,8 @@
 
 **Je vis  la permaculture à petite terre**
 
-——
+***
+
 # Mes Services
 
 Sparring partner : J’accompagne les dirigeants dans leur quotidien et dans leur réflexion stratégique afin de les aider à faire les bons choix, sans regret…
