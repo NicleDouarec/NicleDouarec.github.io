@@ -22,7 +22,7 @@ Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
 ***
 
-Un projet en tête ? [Parlons-en !](mailto:nicolas@le.douar.ec)
+## Un projet en tête ? [Parlons-en !](mailto:nicolas@le.douar.ec)
 
 ***
 
