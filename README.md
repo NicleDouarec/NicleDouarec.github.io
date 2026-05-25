@@ -1,4 +1,4 @@
-![Nicolas le Douarec](./images/portrait.png)
+https://github.com/NicleDouarec/NicleDouarec.github.io/blob/aed5344a631bf5d0eea2d6430aeee91fba7a125e/images/portrait.png
 
 # corsaire hacker ([histoire](./parcours.html))
 
