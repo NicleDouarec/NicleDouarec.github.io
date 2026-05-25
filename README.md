@@ -2,7 +2,6 @@
 
 # corsaire hacker ([histoire](./parcours.html))
 
-
 **Je rêve d'un monde vivant apaisé,**
 
 **cultivant les communs et l'open source.**
