@@ -1,4 +1,4 @@
-![portrait](https://github.com/NicleDouarec/NicleDouarec.github.io/blob/aed5344a631bf5d0eea2d6430aeee91fba7a125e/images/portrait.png)
+![portrait](./images/portrait.png)
 
 # corsaire hacker ([histoire](./parcours.html))
 
