@@ -16,9 +16,9 @@
 
 Je n’ai pas de conseil à donner, mais je m’engage en donnant mon avis.
 
-<mark>**Créatif innovant**</mark> : Je vous (dé-)montre très rapidement le potentiel de transformation de vos produits et services.
+**<mark>Créatif innovant</mark>** : Je vous (dé-)montre très rapidement le potentiel de transformation de vos produits et services.
 
-<mark>**Capitaine de Projet**</mark> : Je me mets au service de vos équipes exploratrices d'un monde meilleur et les aide à surmonter les obstacles sur leur chemin.
+**<mark>Capitaine de Projet</mark>** : Je me mets au service de vos équipes exploratrices d'un monde meilleur et les aide à surmonter les obstacles sur leur chemin.
 
 ***
 
@@ -26,7 +26,7 @@ Un projet en tête et des questions en pagaille? Parlons-en !
 
 ***
 
-<p style="text-align:center;">**_Be the change you want to see in the world (Gandhi)_**</p>
+**_<p style="text-align:center;">Be the change you want to see in the world (Gandhi)</p>_**
 
 ***
 Références :
