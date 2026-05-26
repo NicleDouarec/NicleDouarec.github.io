@@ -1,6 +1,6 @@
 ![portrait](./images/portrait.png)
 
-# corsaire hacker ([histoire](./parcours.html))
+# Corsaire Hacker ([histoire](./parcours.html))
 
 **Je rêve d'un monde vivant apaisé,**
 
