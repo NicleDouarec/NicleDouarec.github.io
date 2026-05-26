@@ -9,6 +9,9 @@ header {
 header h1 {
   color: orange;
 }
+header h1:before {
+  content: " ";
+}
 h1 {
   color: orange;
 }
